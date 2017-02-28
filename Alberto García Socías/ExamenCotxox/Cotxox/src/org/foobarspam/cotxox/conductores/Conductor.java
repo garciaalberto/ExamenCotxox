@@ -42,7 +42,7 @@ public class Conductor {
 	}
 
 	public double getValoracion() {
-		return getValoracionMedia();
+		return this.valoracionMedia();
 	}
 
 	public ArrayList<Byte> getValoraciones() {
